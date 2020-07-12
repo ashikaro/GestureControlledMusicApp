@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="song_name">Song name :</string>
+    <string name="todo1">TODO</string>
+    <string name="forward">forward</string>
+    <string name="reverse">reverse</string>
+    <string name="playbutton">Playbutton</string>
+    <string name="pausebutton">pausebutton</string>
+    <string name="music_img">MUSIC_IMG</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="img">TODO</string>
+    <string name="login">Login</string>
+</resources>

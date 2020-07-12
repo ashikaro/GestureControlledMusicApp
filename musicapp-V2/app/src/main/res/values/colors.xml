@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0E0101</color>
+    <color name="colorPrimaryDark">#7C7B7B</color>
+    <color name="colorAccent">#3EC799</color>
+    <color name="Blue">#0000FF</color>
+
+
+    <style name="BluetoothButton" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/Blue</item>
+        <item name="android:colorButtonNormal">@color/Blue</item>
+    </style>
+</resources>
+
+
+
